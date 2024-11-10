@@ -1,4 +1,4 @@
-# Tea-Disease-Classifier
+# Plant-Disease-Classifier
 
 DISEASE CLASSIFICATION OF TEA LEAF USING ENSEMBLED SVM AND RANDOM FOREST MODELS
 --------------------------------------------------------------------------------
