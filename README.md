@@ -2,7 +2,6 @@
 
 DISEASE CLASSIFICATION OF TEA LEAF USING ENSEMBLED SVM AND RANDOM FOREST MODELS
 --------------------------------------------------------------------------------
-- Members : Heera, Neha, Mounika
 - Degree  : BTech. in Computer Science 
 - Period  : Sem 8, May 2024
 - Grade acquired : S (highest)
