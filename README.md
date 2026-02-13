@@ -1,9 +1,7 @@
-# Plant-Disease-Classifier
-
 DISEASE CLASSIFICATION OF TEA LEAF USING ENSEMBLED SVM AND RANDOM FOREST MODELS
 --------------------------------------------------------------------------------
 - Degree  : BTech. in Computer Science 
-- Period  : Sem 8, May 2024
+- Period  : May 2024
 - Grade acquired : S (highest)
 - Sem GPA : 10.0 / 10.0
 
